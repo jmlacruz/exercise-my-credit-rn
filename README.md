@@ -17,6 +17,9 @@ Exercise to calculate quotations in react native
 5. npm run android
 
 ## Demo
+
+<img src="https://raw.githubusercontent.com/jmlacruz/exercise-my-credit-rn/main/android/app/src/main/res/mipmap-hdpi/bill.png " width="100" height="100">
+
 ![Demo 1](https://raw.githubusercontent.com/jmlacruz/exercise-my-credit-rn/main/demo/Demo1.gif "Demo 1")
 
-![Demo 1](https://raw.githubusercontent.com/jmlacruz/exercise-my-credit-rn/main/demo/Demo2.gif "Demo 2")
+![Demo 2](https://raw.githubusercontent.com/jmlacruz/exercise-my-credit-rn/main/demo/Demo2.gif "Demo 2")
