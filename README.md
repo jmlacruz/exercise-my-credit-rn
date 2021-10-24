@@ -19,4 +19,4 @@ Exercise to calculate quotations in react native
 ## Demo
 ![Demo 1](https://raw.githubusercontent.com/jmlacruz/exercise-my-credit-rn/main/demo/Demo1.gif "Demo 1")
 
-![Demo 1](https://raw.githubusercontent.com/jmlacruz/exercise-my-credit-rn/main/demo/Demo1.gif "Demo 2")
+![Demo 1](https://raw.githubusercontent.com/jmlacruz/exercise-my-credit-rn/main/demo/Demo2.gif "Demo 2")
